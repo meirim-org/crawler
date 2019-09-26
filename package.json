@@ -1,0 +1,28 @@
+{
+  "name": "meirim-crawler",
+  "version": "0.0.1",
+  "description": "Crawler for Meirim",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.1.0",
+    "puppeteer": "^1.20.0",
+    "puppeteer-extra": "^2.1.3",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.1.4",
+    "puppeteer-extra-plugin-stealth": "^2.2.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meirim-org/crawler.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/meirim-org/crawler/issues"
+  },
+  "homepage": "https://github.com/meirim-org/crawler#readme"
+}
